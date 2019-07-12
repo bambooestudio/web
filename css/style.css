@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bg-blue{
+    background: #2B2F5B;
+}
+.bg-gray{
+    background: #FCFCFC;
+}
+.bg-green{
+  background: #80B142;
+}
+.bg-black{
+    background: #000;
+}
+.bg-purple{
+    background: #84577C;
+}
+.bg-azul{
+    background: #005792;
+}
+.bg-pink{
+    background: #FFB6B9;
+}
+.bg-gold{
+    background: #F7B32D;
+}
+.bg-deep{
+    background: #240041;
+}
+.bg-clear{
+    background: #c4ffdd;
+   
+}
+.bg-cloud{
+    background: #6A65D8;
+}
+.bg-media{
+    background: #ABEDD8;
+}
+.bg-verde{
+    background: #BCFFA8;
+}
+.bg-hoja{
+    background: #0E9577;
+}
+.bg-app{
+    background: #0E18DD;
+}
+.text-white{
+    color: #fff;
+}
+.text-green{
+    color: #80B142;
+}
+.text-gray{
+    color: #FCFCFC;
+}
+.text-blue{
+    color: #2B2F5B;
+}
+.centro{
+    text-align: center;
+    margin: auto;
+}
+.icono{
+    font-size: 2rem;
+}
+.icono2 {
+    font-size: 3rem;
+}
+.fade {
+    opacity: 0.1;
+}
+
+.fade:hover {
+    opacity: 1;
+}
+.fondo {
+   
+    background-attachment: fixed;
+}
+.uk-card-blue{
+    background: #2B2F5B;
+    color: #fff;
+}
+.uk-button-green{
+    background: #80B142;
+    color: #fff;
+}
+.uk-green{
+    color: #80B142;
+}
+.btn-green{
+    background: #80B142;
+    color: #fff;
+}
+.btn-blue {
+    background: #2B2F5B;
+    color: #fff;
+}
+
+
+
+
